@@ -1,0 +1,305 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Planets</title>
+  <metadata>
+  <md:content-id>m27781</md:content-id><md:title>Planets</md:title>
+  <md:abstract/>
+  <md:uuid>e62e6fd5-0041-4737-ad5d-db1cc481b1e5</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7380577">
+      <title>ENGLISH FIRST ADDITIONAL LANGUAGE</title>
+      <para id="para-id7380577">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7886544">
+      <title>Grade 4</title>
+      <para id="para-id7886544">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169173832812">
+      <title>WHAT A WONDERFUL WORLD</title>
+      <para id="para-id1169173832812">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1622954">
+      <title>Module 34</title>
+      <para id="para-id1622954">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2086241">
+      <title>PLANETS</title>
+      <section id="id7214135">
+        <title>Activity 1</title>
+        <para id="para-id7214135">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id8680638">
+        <title>To read a table for information [LO3.3.4]</title>
+        <table id="id1169179069630" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c6">SIZE OF THE PLANETS</entry>
+              </row>
+              <row>
+                <entry>Planet</entry>
+                <entry namest="c2" nameend="c6">Diameter</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry namest="c2" nameend="c3">km</entry>
+                <entry namest="c4" nameend="c6">miles</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Mercury</entry>
+                <entry namest="c3" nameend="c4"/>
+                <entry>4 850</entry>
+                <entry>3 010</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Venus</entry>
+                <entry namest="c3" nameend="c4"/>
+                <entry>12 100</entry>
+                <entry>7 520</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Earth</entry>
+                <entry namest="c3" nameend="c4"/>
+                <entry>12 756</entry>
+                <entry>7 926</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Mars</entry>
+                <entry namest="c3" nameend="c4"/>
+                <entry>6 790</entry>
+                <entry>4 220</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Jupiter</entry>
+                <entry namest="c3" nameend="c4"/>
+                <entry>143 000</entry>
+                <entry>89 000</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Saturn</entry>
+                <entry namest="c3" nameend="c4"/>
+                <entry>120 000</entry>
+                <entry>75 000</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Uranus</entry>
+                <entry namest="c3" nameend="c4"/>
+                <entry>51 000</entry>
+                <entry>32 000</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Neptune</entry>
+                <entry namest="c3" nameend="c4"/>
+                <entry>49 000</entry>
+                <entry>30 000</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Pluto</entry>
+                <entry namest="c3" nameend="c4"/>
+                <entry>3 000</entry>
+                <entry>1 900</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1970361">a. Study the table above carefully and answer the following questions:</para>
+        <para id="id3234088">(i) Which planet has the greatest diameter?</para>
+        <para id="id7530420">…………………………………………………………………………..</para>
+        <para id="id4618128">(ii) Which is the longest: a mile or a kilometre?</para>
+        <para id="id6110873">…………………………………………………………………………..</para>
+        <para id="id1169174721651">(iii) Which planet is closest in size to earth?</para>
+        <para id="id6126788">………………………………………………………………………….</para>
+        <para id="id1169174623895">(iv) Which is the second smallest planet?</para>
+        <para id="id1169179127267">………………………………………………………………………….</para>
+        <para id="id1169179120264">b. Arrange the planets from the largest to the smallest:</para>
+        <para id="id1169179163943">(i)<emphasis effect="bold"/>………………………………………………………………</para>
+        <para id="id7108444">(ii) ………………………………………………………………</para>
+        <para id="id2182344">(iii) ………………………………………………………………</para>
+        <para id="id7969970">(iv) ………………………………………………………………</para>
+        <list id="id2795047" list-type="enumerated" number-style="lower-roman" mark-prefix="(" mark-suffix=")">
+          <item>………………………………………………………………</item>
+        </list>
+        <para id="id1169175718403">(vi) ………………………………………………………………</para>
+        <para id="id7963096">(vii) ………………………………………………………………</para>
+        <para id="id4702197">(viii) ………………………………………………………………</para>
+        <list id="id4206470" list-type="enumerated" number-style="lower-roman" mark-prefix="(" mark-suffix=")">
+          <item>……………………………………….</item>
+        </list>
+      </section>
+      <section id="id1169179131126">
+        <title>Activity 2</title>
+        <para id="para-id1169179131126">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id4348700">
+        <title>To read and solve puzzles [LO 3.5.3]</title>
+        <para id="id6372718">Word game</para>
+        <para id="id7130234">Rearrange the jumbled letters given below to make words that have been used in the passages above, and then match the correct word with the definition or description given here:</para>
+        <para id="id2149234">byllaul</para>
+        <para id="id1169179250142">treemaid</para>
+        <para id="id2842346">divo</para>
+        <para id="id1169179127945">hemry</para>
+        <para id="id3218530">treesrauc</para>
+        <list id="id1169175799925" list-type="bulleted">
+          <item>straight line from side to side of a figure (used for measurement)</item>
+          <item>a little poem</item>
+          <item>emptiness, nothingness</item>
+          <item>a song sung to an infant to make him/her sleep</item>
+          <item>a human being or animal (something that has been created)</item>
+        </list>
+      </section>
+      <section id="id1169179336891">
+        <title>Activity 3</title>
+        <para id="para-id1169179336891">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1169179364269">
+        <title>To read a simple map [LO 3.3.1]</title>
+        <para id="id1169174691885">A Solar Eclipse</para>
+        <para id="id1169179281271">Do you know what a solar eclipse is? A solar eclipse happens when the moon moves between the earth and the sun. When this happens, the light from the sun is blocked. The sky gradually becomes dark as the moon moves in front of the sun. If the moon and the sun are in a perfect line, it is called a total eclipse. This happens very rarely.</para>
+        <para id="id1169179292636">This year a total eclipse of the sun will be visible in the northern regions of Limpopo Province. Up to 30 000 visitors from all over the world are expected, as this is an ideal place from which to experience the eclipse. </para>
+        <para id="id1169179144993">The eclipse will be visible between 08:18 and 08:21 on Wednesday, 4 December, when the moon will move directly in front of the sun for three minutes and all direct sunlight will be deflected from the earth. The very best place to experience it, is in the “path of totality”, as scientists call it. This will be between Beit Bridge and the Mozambican border in the area north of the Soutpansberg, Thohoyandou and the Shingwedzi Camp in Kruger National Park.</para>
+        <para id="id2271438">If you should miss this awesome event, you will have to wait until 2030 to see it in Southern Africa.</para>
+        <para id="id8151408">SAFETY PRECAUTIONS:</para>
+        <para id="id1169175025587">Never view the sun with the naked eye or with any optical device such as binoculars. Your eye has a lens that will concentrate the sun’s light onto your retina and cause damage without your feeling any pain while it is happening. Do not use sunglasses. Number 14 welder’s glass is fine. </para>
+      </section>
+      <section id="id2720113">
+        <title>Consult a map of South Africa and find out where the places are that are mentioned in the passage above.</title>
+        <para id="id1169179470470">Use your dictionary to find the meanings of the following words:</para>
+        <table id="id7969000" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>1.</entry>
+                <entry>gradually</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>2.</entry>
+                <entry>rarely</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>3.</entry>
+                <entry>visible</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>4.</entry>
+                <entry>total</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>5.</entry>
+                <entry>awesome</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1169175806277">Write the words and their meanings in your personal dictionary and make sure that you know how to use them.</para>
+        <para id="id7592923">WRITING</para>
+        <para id="id1169179102579">Up to now we have spoken only of one of the elements that are found in most (or all) creation myths, namely the sun. We are now going to take a look at another fascinating element, water. </para>
+        <para id="id5034743">Without water there could be no life. There are billions of tons of water in the atmosphere, in the oceans and in the crust of the earth. Did you know that our bodies are 64% water? </para>
+        <para id="id1169174944540">Some of the simple properties of water are the following:</para>
+        <list id="id3093482" list-type="bulleted">
+          <item>It freezes at 0°C and boils at 100°C at sea level.</item>
+          <item>It is a colourless, odourless and almost tasteless liquid.</item>
+          <item>It freezes to ice and boils away to vapour or steam.</item>
+        </list>
+        <para id="id1169174753864">Some of the frozen forms of water are icicles, snow and hail. Have you ever seen and touched snow? Did you know that every snowflake is made up of thousands of water crystals, each with its own pattern?</para>
+        <para id="id1169181380005">Look at these beautiful snowflake patterns:</para>
+        <para id="id6303452"/>
+        <figure id="id8202647">
+          <media id="id8202647_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-85f7.png" id="id8202647__onlineimage" height="125" width="150"/>
+          </media>
+        </figure>
+        <figure id="id6211599">
+          <media id="id6211599_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-ff59.png" id="id6211599__onlineimage" height="157" width="176"/>
+          </media>
+        </figure>
+        <para id="id1169176178066"/>
+        <figure id="id6216653">
+          <media id="id6216653_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-1787.png" id="id6216653__onlineimage" height="157" width="169"/>
+          </media>
+        </figure>
+      </section>
+      <section id="id1169179471978">
+        <title>Activity 4</title>
+        <para id="para-id1169179471978">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1169179285223">
+        <title>To express own opinion in writing [LO 4.1.5]</title>
+        <para id="id7438754">1. Think of any exciting or pleasant or memorable experience you have had with water. (For example the first time you saw snow, or a visit to the seaside, or how you went canoeing on a river…anything that made an impression on you.)</para>
+        <para id="id6452315">Now write at least five full sentences about this event. If you have any photographs about it, you can bring them along and show them to your classmates and teacher, while you also tell them a little more about the experiences you had at the time.</para>
+        <para id="id1169179256104">…………………………………………………………………………………..</para>
+        <para id="id1169179137123">…………………………………………………………………………………..</para>
+        <para id="id1169176216047">………………………………………………………………………………….</para>
+        <para id="id6172420">………………………………………………………………………………….</para>
+        <para id="id6197844">………………………………………………………………………………….</para>
+        <para id="id4551516">………………………………………………………………………………….</para>
+        <para id="id1169179062718">………………………………………………………………………………….</para>
+        <para id="id1169175942231">………………………………………………………………………………….</para>
+        <para id="id8161217"/>
+      </section>
+    </section>
+    <section id="id1169179268442">
+      <title>Assessment</title>
+      <para id="para-id1169179268442">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169176217806">
+      <title>LEARNING OUTCOME 3: READING AND VIEWING</title>
+      <para id="id5871450">The learner will be able to read and view for information and enjoyment, and to respond critically to the aesthetic, cultural and emotional values in texts.</para>
+      <section id="id1169176201875">
+        <title>Assessment Standard</title>
+        <para id="id7745320">We know this when the learner:</para>
+        <para id="id1169179043595">3.3 reads for information:</para>
+        <para id="id1169176212248">3.3.1 reads simple maps and plans (e.g. follows a route);</para>
+        <list id="id7458597" list-type="bulleted">
+          <item>reads diagrams, graphs and charts (e.g. a family tree;</item>
+        </list>
+        <para id="id6089446">3.5 reads for pleasure and information:</para>
+        <para id="id6324531">3.5.3 reads and solves puzzles.</para>
+      </section>
+    </section>
+    <section id="id7908287">
+      <title>LEARNING OUTCOME 4: WRITING</title>
+      <para id="id6098052">The learner will be able to write different kinds of factual and imaginative texts for a wide range of purposes.</para>
+      <section id="id4143658">
+        <title>Assessment Standard</title>
+        <para id="id7359645">We know this when the learner:</para>
+        <para id="id3725944">4.1 writes to communicate information:</para>
+        <para id="id1169176182423">4.1.5 expresses an opinion in writing (e.g. whether a book was interesting or boring).</para>
+      </section>
+    </section>
+  </content>
+</document>
